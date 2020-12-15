@@ -1,0 +1,10 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/shamm/Desktop/Viviado/Lab4.1and2/Lab4.1and2.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+,,,,,,,,,,,,,,
+C:/Users/shamm/Desktop/Viviado/Lab4.1and2/Lab4.1and2.srcs/sim_1/new/top_tb.v,1606875725,verilog,,C:/Users/shamm/Desktop/Viviado/Lab4.1and2/Lab4.1and2.srcs/sim_1/new/ram_tb.v,,top_tb,,,,,,,,
+C:/Users/shamm/Desktop/Viviado/Lab4.1and2/Lab4.1and2.srcs/sources_1/new/mem_fsm.v,1606876573,verilog,,C:/Users/shamm/Desktop/Viviado/Lab4.1and2/Lab4.1and2.srcs/sources_1/new/ram.v,,mem_fsm,,,,,,,,
+C:/Users/shamm/Desktop/Viviado/Lab4.1and2/Lab4.1and2.srcs/sources_1/new/ram.v,1606876583,verilog,,C:/Users/shamm/Desktop/Viviado/Lab4.1and2/Lab4.1and2.srcs/sources_1/new/top.v,,SRAM,,,,,,,,
+C:/Users/shamm/Desktop/Viviado/Lab4.1and2/Lab4.1and2.srcs/sources_1/new/top.v,1606324992,verilog,,C:/Users/shamm/Desktop/Viviado/Lab4.1and2/Lab4.1and2.srcs/sim_1/new/top_tb.v,,top,,,,,,,,

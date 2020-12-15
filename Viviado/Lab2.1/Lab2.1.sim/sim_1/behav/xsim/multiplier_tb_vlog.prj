@@ -1,0 +1,16 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Lab2.1.srcs/sources_1/new/part1.v" \
+"../../../../Lab2.1.srcs/sources_1/new/HA.v" \
+"../../../../Lab2.1.srcs/sources_1/new/FA.v" \
+"../../../../../../shawn/multiplier.v" \
+"../../../../../../shawn/multiplier_tb.v" \
+"../../../../Lab2.1.srcs/sim_1/new/part1_tb.v" \
+"../../../../../../shawn/fullAdder.v" \
+"../../../../../../shawn/halfAdder.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

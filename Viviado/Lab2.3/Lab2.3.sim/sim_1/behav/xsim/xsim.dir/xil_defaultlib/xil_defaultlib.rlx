@@ -1,0 +1,13 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/shamm/Desktop/Viviado/Lab2.3/Lab2.3.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+C:/Users/shamm/Desktop/Viviado/Lab2.3/Lab2.3.srcs/sim_1/new/2bcd_tb.v,1601436249,verilog,,,,Fbcd_tb,,,,,,,,
+C:/Users/shamm/Desktop/Viviado/Lab2.3/Lab2.3.srcs/sim_1/new/bcd_tb.v,1600832362,verilog,,C:/Users/shamm/Desktop/Viviado/Lab2.3/Lab2.3.srcs/sim_1/new/2bcd_tb.v,,bcd_tb,,,,,,,,
+C:/Users/shamm/Desktop/Viviado/Lab2.3/Lab2.3.srcs/sim_1/new/clkdiv10_tb.v,1601433654,verilog,,C:/Users/shamm/Desktop/Viviado/Lab2.3/Lab2.3.srcs/sim_1/new/mux_tb.v,,clkdiv10_tb,,,,,,,,
+C:/Users/shamm/Desktop/Viviado/Lab2.3/Lab2.3.srcs/sim_1/new/mux_tb.v,1600283477,verilog,,C:/Users/shamm/Desktop/Viviado/Lab2.3/Lab2.3.srcs/sim_1/new/bcd_tb.v,,mux_tb,,,,,,,,
+C:/Users/shamm/Desktop/Viviado/Lab2.3/Lab2.3.srcs/sources_1/new/2bcd.v,1600874293,verilog,,C:/Users/shamm/Desktop/Viviado/Lab2.3/Lab2.3.srcs/sim_1/new/clkdiv10_tb.v,,Fbcd,,,,,,,,
+C:/Users/shamm/Desktop/Viviado/Lab2.3/Lab2.3.srcs/sources_1/new/bcd.v,1601436175,verilog,,C:/Users/shamm/Desktop/Viviado/Lab2.3/Lab2.3.srcs/sources_1/new/2bcd.v,,bcd,,,,,,,,
+C:/Users/shamm/Desktop/Viviado/Lab2.3/Lab2.3.srcs/sources_1/new/clkdiv10.v,1601434052,verilog,,C:/Users/shamm/Desktop/Viviado/Lab2.3/Lab2.3.srcs/sources_1/new/mux.v,,clkdiv10,,,,,,,,
+C:/Users/shamm/Desktop/Viviado/Lab2.3/Lab2.3.srcs/sources_1/new/mux.v,1600833240,verilog,,C:/Users/shamm/Desktop/Viviado/Lab2.3/Lab2.3.srcs/sources_1/new/bcd.v,,mux2to1,,,,,,,,

@@ -1,0 +1,13 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Lab3.4.srcs/sources_1/new/clkdiv.vhd" \
+"../../../../Lab3.4.srcs/sources_1/new/fsm.vhd" \
+"../../../../Lab3.4.srcs/sources_1/new/watch.vhd" \
+"../../../../Lab3.4.srcs/sources_1/new/stopwatch.vhd" \
+"../../../../Lab3.4.srcs/sim_1/new/clkdiv_tb.vhd" \
+"../../../../Lab3.4.srcs/sim_1/new/fsm_tb.vhd" \
+"../../../../Lab3.4.srcs/sim_1/new/watch_tb.vhd" \
+"../../../../Lab3.4.srcs/sim_1/new/stopwatch_tb.vhd" \
+
+# Do not sort compile order
+nosort

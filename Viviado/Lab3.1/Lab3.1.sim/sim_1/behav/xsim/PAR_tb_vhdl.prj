@@ -1,0 +1,10 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Lab3.1.srcs/sources_1/new/MY_PACK.vhd" \
+"../../../../Lab3.1.srcs/sources_1/new/PAR.vhd" \
+"../../../../Lab3.1.srcs/sources_1/new/hamming.vhd" \
+"../../../../Lab3.1.srcs/sim_1/new/PAR_tb.vhd" \
+"../../../../Lab3.1.srcs/sim_1/new/hamming_tb.vhd" \
+
+# Do not sort compile order
+nosort

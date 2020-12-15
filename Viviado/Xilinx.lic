@@ -1,0 +1,26 @@
+# ----- REMOVE LINES ABOVE HERE --------------------------
+#
+# This license is valid from Fri Sep 04 03:26:20 UTC 2020.
+#
+# This is license NODELOCKED to HOSTID=e0d55ea2107b;
+# there is no need to run lmgrd for this license.
+#
+#
+# This is a permanent license generated on Fri Sep 04 03:26:20 UTC 2020
+INCREMENT ISE_Embedded_Edition xilinxd 2021.09 permanent uncounted \
+799C71E96DEF \
+VENDOR_STRING=shammah1230@gmail.com,ISE_Embedded_Edition,software,permanent,_212020324_0_0_949 \
+HOSTID=e0d55ea2107b ISSUER="Xilinx Inc" START=04-Sep-2020 \
+TS_OK
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE ISE_Embedded_Edition xilinxd 2021.09 E99EB66FFAF9 \
+COMPONENTS="SDK ChipScopePro_SIOTK ChipscopePro ISE XPS ISIM \
+PlanAhead" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+# ----- REMOVE LINES BELOW HERE --------------------------
